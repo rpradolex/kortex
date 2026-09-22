@@ -1,2 +1,2 @@
-# kortex
-Kortex Shell for Arch Linux / Hyprland / Quickshell
+# Kortex
+Kortex is a shell for Arch Linux / Hyprland / Quickshell
